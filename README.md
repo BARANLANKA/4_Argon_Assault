@@ -106,6 +106,7 @@ Here are the lectures of the course for this section...
 2. Tune ship speed, rolls, clamps.
 3. Note about 16:9 aspect ratio in game window.
 4. Tweak the rail position to give the feeling of speed.
+<<<<<<< HEAD
 
 ### 18 Create Bullet Particles ###
 1. Use particles to visualise where our ship is shooting.
@@ -415,3 +416,5 @@ Use lighting, fog and particles to create a visual atmosphere in the level.
 **After watching (learning outcomes)…**
 
 Ready to take on the next section!
+=======
+>>>>>>> parent of 9bdba74... 18 Create Bullet Particles
